@@ -14,8 +14,8 @@
 🔹Tools: Jupyter Notebook, Tableau, Alteryx. <br>
 
 <!--############################################################ Github Stats and Top Languages ########################################################-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYOTHY-DAS&theme=dracula&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JYOTHY-DAS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athiranairm93&theme=dracula&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=athiranairm93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 
 ## 📌 Current Projects
