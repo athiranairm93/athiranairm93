@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Jyothy Das!
+# 👋 Hello, Athira Nair M!
 ### 🚀 About Me
-#### I am a Data Science & Analytics enthusiast with a strong passion for transforming raw data into meaningful insights. With a solid foundation in machine learning, statistical analysis, and data visualization, I thrive on solving real-world problems through data-driven approaches. Currently, I am gaining hands-on experience as a Data Science & Analytics intern, applying my skills to impactful projects.
+#### I am a Data Science & Analytics enthusiast with a strong passion for transforming raw data into meaningful insights. With a solid foundation in machine learning, statistical analysis, and data visualization, I thrive on solving real-world problems through data-driven approaches. Currently, I am gaining hands-on experience as a Data Analyst intern, applying my skills to impactful projects.
 ## 💡 What I Do
 🔹 Data Cleaning & Preprocessing. <br>
 🔹 Exploratory Data Analysis (EDA). <br>
