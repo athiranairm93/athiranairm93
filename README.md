@@ -23,7 +23,7 @@
 
 ## 📬 Let's Connect!
 Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects! 🚀 <br>
-📧 Email: jyothydas11@gmail.com <br>
+📧 Email: athiranairm93@gmail.com <br>
 ###
 
 ###
