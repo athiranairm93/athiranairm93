@@ -29,7 +29,10 @@ Feel free to explore my repositories, connect with me, or collaborate on excitin
 ###
 
 <div align="left">
-<a href='https://www.linkedin.com/in/jyothy-das/'>
+<a href='https://www.linkedin.com/in/athira-nair-m/'>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
+
